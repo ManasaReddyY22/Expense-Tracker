@@ -1,4 +1,4 @@
-# Expense-Tracker
+
 # 💸 Expense Tracker
 
 A simple and user-friendly web application to track your daily expenses, categorize them, and view monthly summaries with charts. Built using **HTML, CSS, JavaScript**, and **Chart.js** for data visualization. Data is stored using **LocalStorage**, making it fully functional without a backend.
